@@ -8,5 +8,5 @@ requests
 bs4
 IMDbPY==2022.7.9
 psutil
-aiohttp
+aiohttp<=3.8.1
 pytz
